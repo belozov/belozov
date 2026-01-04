@@ -7,5 +7,6 @@ I build Android applications using Kotlin and Jetpack Compose in Android Studio.
   Kotlin · Java · Jetpack Compose · Android Studio
 - ⚡ About me :
     I am Second-year Bachelor student at AITU
+  
     Hobbies: cooking, swimming, gym
   
