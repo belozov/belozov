@@ -1,13 +1,14 @@
 ## Hi there 👋
-I’m Bekzat, a beginner Android native developer.
-I build Android applications using Kotlin and Jetpack Compose in Android Studio.
+I'm Bekzat, a Flutter Developer.
 
-🔭 I’m currently working on a Child Reward System app where parents assign tasks and children earn points for rewards.
+I build cross-platform mobile apps for Android and iOS using Flutter and Dart.
 
-- 🤖 Tech stack:
-  Kotlin · Java · Jetpack Compose · Android Studio
-- ⚡ About me :
-    I am Second-year Bachelor student at AITU
-  
-    Hobbies: cooking, swimming, gym
-  
+🔭 I'm currently working on **L'Artisan Dulce** — a premium pastry shop app with smooth animations, a Mood Filter, and clean architecture.
+
+- 📱 Tech stack:
+  Flutter · Dart · Firebase · REST API
+
+- ⚡ About me:
+  Second-year Bachelor student at AITU
+
+  Hobbies: cooking, swimming, gym
